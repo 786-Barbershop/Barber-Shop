@@ -121,7 +121,7 @@
                         <hr>
                         <p>This is text under description of Barber foundation and this is text under description of Barber foundation</p>
                       </div>
-		  </div>
+                    </div>
              </div>
 
 
