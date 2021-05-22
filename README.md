@@ -2,7 +2,7 @@
 <head>
     
     <meta name="viewport" content="width =device-width,initial-scale=1">
-    <link rel="stylesheet" href="barber-style.css">
+    <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.csss"></script>
    
    <script src="https://kit.fontawesome.com/0aa57579bf.js" crossorigin="anonymous"></script>
